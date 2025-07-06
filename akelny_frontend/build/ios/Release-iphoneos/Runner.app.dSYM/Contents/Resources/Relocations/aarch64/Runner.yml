@@ -1,0 +1,85 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/omaradel/Downloads/akelny/build/ios/Release-iphoneos/Runner.app/Runner'
+relocations:
+  - { offset: 0xDA43D, size: 0x8, addend: 0x0, symName: _RunnerVersionString, symObjAddr: 0x0, symBinAddr: 0x100008880, symSize: 0x0 }
+  - { offset: 0xDA472, size: 0x8, addend: 0x0, symName: _RunnerVersionNumber, symObjAddr: 0x28, symBinAddr: 0x1000088A8, symSize: 0x0 }
+  - { offset: 0xDA4AF, size: 0x8, addend: 0x0, symName: '+[GeneratedPluginRegistrant registerWithRegistry:]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x17C }
+  - { offset: 0xDA4BD, size: 0x8, addend: 0x0, symName: '+[GeneratedPluginRegistrant registerWithRegistry:]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x17C }
+  - { offset: 0xDA63A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1B4, symBinAddr: 0x100004330, symSize: 0x8C }
+  - { offset: 0xDA674, size: 0x8, addend: 0x0, symName: '_$s6Runner11AppDelegateCMa', symObjAddr: 0x240, symBinAddr: 0x1000043BC, symSize: 0x20 }
+  - { offset: 0xDA688, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaMa', symObjAddr: 0x260, symBinAddr: 0x1000043DC, symSize: 0x54 }
+  - { offset: 0xDA743, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCSYWb', symObjAddr: 0x670, symBinAddr: 0x1000047EC, symSize: 0x24 }
+  - { offset: 0xDA757, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentationPWb', symObjAddr: 0x694, symBinAddr: 0x100004810, symSize: 0x24 }
+  - { offset: 0xDA76B, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaSHSCSQWb', symObjAddr: 0x6B8, symBinAddr: 0x100004834, symSize: 0x24 }
+  - { offset: 0xDA7D4, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaSHSCSH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x2C0, symBinAddr: 0x10000443C, symSize: 0x40 }
+  - { offset: 0xDA858, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaSHSCSH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x300, symBinAddr: 0x10000447C, symSize: 0x70 }
+  - { offset: 0xDA8C7, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP016_forceBridgeFromE1C_6resulty01_E5CTypeQz_xSgztFZTW', symObjAddr: 0x3B8, symBinAddr: 0x100004534, symSize: 0x4 }
+  - { offset: 0xDA8F5, size: 0x8, addend: 0x0, symName: '_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZSo29UIApplicationLaunchOptionsKeya_Tgmq5', symObjAddr: 0x3BC, symBinAddr: 0x100004538, symSize: 0x84 }
+  - { offset: 0xDA986, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP024_conditionallyBridgeFromE1C_6resultSb01_E5CTypeQz_xSgztFZTW', symObjAddr: 0x440, symBinAddr: 0x1000045BC, symSize: 0x4 }
+  - { offset: 0xDA9A2, size: 0x8, addend: 0x0, symName: '_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZSo29UIApplicationLaunchOptionsKeya_Tgmq5', symObjAddr: 0x444, symBinAddr: 0x1000045C0, symSize: 0x8C }
+  - { offset: 0xDAA42, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP026_unconditionallyBridgeFromE1Cyx01_E5CTypeQzSgFZTW', symObjAddr: 0x4D0, symBinAddr: 0x10000464C, symSize: 0x40 }
+  - { offset: 0xDAACF, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaSQSCSQ2eeoiySbx_xtFZTW', symObjAddr: 0x510, symBinAddr: 0x10000468C, symSize: 0x88 }
+  - { offset: 0xDAB79, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyas35_HasCustomAnyHashableRepresentationSCsACP03_tofgH0s0gH0VSgyFTW', symObjAddr: 0x604, symBinAddr: 0x100004780, symSize: 0x6C }
+  - { offset: 0xDAC77, size: 0x8, addend: 0x0, symName: '_$s6Runner11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtFTo', symObjAddr: 0x0, symBinAddr: 0x10000417C, symSize: 0x148 }
+  - { offset: 0xDACCA, size: 0x8, addend: 0x0, symName: '_$s6Runner11AppDelegateCACycfcTo', symObjAddr: 0x148, symBinAddr: 0x1000042C4, symSize: 0x3C }
+  - { offset: 0xDAD05, size: 0x8, addend: 0x0, symName: '_$s6Runner11AppDelegateCfD', symObjAddr: 0x184, symBinAddr: 0x100004300, symSize: 0x30 }
+  - { offset: 0xDAD7A, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaSYSCSY8rawValuexSg03RawF0Qz_tcfCTW', symObjAddr: 0x598, symBinAddr: 0x100004714, symSize: 0x44 }
+  - { offset: 0xDADA3, size: 0x8, addend: 0x0, symName: '_$sSo29UIApplicationLaunchOptionsKeyaSYSCSY8rawValue03RawF0QzvgTW', symObjAddr: 0x5DC, symBinAddr: 0x100004758, symSize: 0x28 }
+  - { offset: 0xDAED9, size: 0x8, addend: 0x0, symName: '_$s6Runner19ResourceBundleClass33_7571A7321C8DCCC28D894D1A71659FA9LLCfD', symObjAddr: 0x0, symBinAddr: 0x100004898, symSize: 0x10 }
+  - { offset: 0xDAF1B, size: 0x8, addend: 0x0, symName: '_$s6Runner19ResourceBundleClass33_7571A7321C8DCCC28D894D1A71659FA9LLCMa', symObjAddr: 0x10, symBinAddr: 0x1000048A8, symSize: 0x20 }
+  - { offset: 0xDAF36, size: 0x8, addend: 0x0, symName: '_$s6Runner19ResourceBundleClass33_7571A7321C8DCCC28D894D1A71659FA9LLCfD', symObjAddr: 0x0, symBinAddr: 0x100004898, symSize: 0x10 }
+  - { offset: 0xDB059, size: 0x8, addend: 0x0, symName: '-[BackgroundRefreshStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x1000048C8, symSize: 0xC }
+  - { offset: 0xDB1CC, size: 0x8, addend: 0x0, symName: '-[BackgroundRefreshStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x1000048C8, symSize: 0xC }
+  - { offset: 0xDB20B, size: 0x8, addend: 0x0, symName: '-[BackgroundRefreshStrategy checkServiceStatus:completionHandler:]', symObjAddr: 0xC, symBinAddr: 0x1000048D4, symSize: 0x10 }
+  - { offset: 0xDB271, size: 0x8, addend: 0x0, symName: '-[BackgroundRefreshStrategy requestPermission:completionHandler:errorHandler:]', symObjAddr: 0x1C, symBinAddr: 0x1000048E4, symSize: 0x54 }
+  - { offset: 0xDB2DC, size: 0x8, addend: 0x0, symName: '+[BackgroundRefreshStrategy permissionStatus]', symObjAddr: 0x70, symBinAddr: 0x100004938, symSize: 0x5C }
+  - { offset: 0xDB4D9, size: 0x8, addend: 0x0, symName: '+[Codec decodePermissionGroupFrom:]', symObjAddr: 0x0, symBinAddr: 0x100004994, symSize: 0x8 }
+  - { offset: 0xDB646, size: 0x8, addend: 0x0, symName: '+[Codec decodePermissionGroupFrom:]', symObjAddr: 0x0, symBinAddr: 0x100004994, symSize: 0x8 }
+  - { offset: 0xDB689, size: 0x8, addend: 0x0, symName: '+[Codec decodePermissionGroupsFrom:]', symObjAddr: 0x8, symBinAddr: 0x10000499C, symSize: 0x184 }
+  - { offset: 0xDB6FF, size: 0x8, addend: 0x0, symName: '+[Codec encodePermissionStatus:]', symObjAddr: 0x18C, symBinAddr: 0x100004B20, symSize: 0x30 }
+  - { offset: 0xDB742, size: 0x8, addend: 0x0, symName: '+[Codec encodeServiceStatus:]', symObjAddr: 0x1BC, symBinAddr: 0x100004B50, symSize: 0x30 }
+  - { offset: 0xDB800, size: 0x8, addend: 0x0, symName: '-[PermissionHandlerPlugin initWithPermissionManager:]', symObjAddr: 0x0, symBinAddr: 0x100004B80, symSize: 0x78 }
+  - { offset: 0xDB964, size: 0x8, addend: 0x0, symName: '-[PermissionHandlerPlugin initWithPermissionManager:]', symObjAddr: 0x0, symBinAddr: 0x100004B80, symSize: 0x78 }
+  - { offset: 0xDB9AB, size: 0x8, addend: 0x0, symName: '+[PermissionHandlerPlugin registerWithRegistrar:]', symObjAddr: 0x78, symBinAddr: 0x100004BF8, symSize: 0xC4 }
+  - { offset: 0xDBA1A, size: 0x8, addend: 0x0, symName: '-[PermissionHandlerPlugin handleMethodCall:result:]', symObjAddr: 0x13C, symBinAddr: 0x100004CBC, symSize: 0x350 }
+  - { offset: 0xDBAF1, size: 0x8, addend: 0x0, symName: '___51-[PermissionHandlerPlugin handleMethodCall:result:]_block_invoke', symObjAddr: 0x48C, symBinAddr: 0x10000500C, symSize: 0x3C }
+  - { offset: 0xDBB4C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x4C8, symBinAddr: 0x100005048, symSize: 0x8 }
+  - { offset: 0xDBB73, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x4D0, symBinAddr: 0x100005050, symSize: 0x8 }
+  - { offset: 0xDBB92, size: 0x8, addend: 0x0, symName: '___51-[PermissionHandlerPlugin handleMethodCall:result:]_block_invoke.16', symObjAddr: 0x4D8, symBinAddr: 0x100005058, symSize: 0x74 }
+  - { offset: 0xDBC0C, size: 0x8, addend: 0x0, symName: '-[PermissionHandlerPlugin .cxx_destruct]', symObjAddr: 0x54C, symBinAddr: 0x1000050CC, symSize: 0x30 }
+  - { offset: 0xDBE76, size: 0x8, addend: 0x0, symName: '-[PermissionManager initWithStrategyInstances]', symObjAddr: 0x0, symBinAddr: 0x1000050FC, symSize: 0x80 }
+  - { offset: 0xDC006, size: 0x8, addend: 0x0, symName: '-[PermissionManager initWithStrategyInstances]', symObjAddr: 0x0, symBinAddr: 0x1000050FC, symSize: 0x80 }
+  - { offset: 0xDC03D, size: 0x8, addend: 0x0, symName: '+[PermissionManager checkPermissionStatus:result:]', symObjAddr: 0x80, symBinAddr: 0x10000517C, symSize: 0x98 }
+  - { offset: 0xDC0C7, size: 0x8, addend: 0x0, symName: '+[PermissionManager checkServiceStatus:result:]', symObjAddr: 0x118, symBinAddr: 0x100005214, symSize: 0x10C }
+  - { offset: 0xDC12A, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x224, symBinAddr: 0x100005320, symSize: 0x10 }
+  - { offset: 0xDC14F, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x234, symBinAddr: 0x100005330, symSize: 0x8 }
+  - { offset: 0xDC16E, size: 0x8, addend: 0x0, symName: '___47+[PermissionManager checkServiceStatus:result:]_block_invoke', symObjAddr: 0x23C, symBinAddr: 0x100005338, symSize: 0x6C }
+  - { offset: 0xDC1E4, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40r, symObjAddr: 0x2A8, symBinAddr: 0x1000053A4, symSize: 0x3C }
+  - { offset: 0xDC20D, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x2E4, symBinAddr: 0x1000053E0, symSize: 0x2C }
+  - { offset: 0xDC22C, size: 0x8, addend: 0x0, symName: '-[PermissionManager requestPermissions:completion:errorHandler:]', symObjAddr: 0x310, symBinAddr: 0x10000540C, symSize: 0x27C }
+  - { offset: 0xDC335, size: 0x8, addend: 0x0, symName: '___64-[PermissionManager requestPermissions:completion:errorHandler:]_block_invoke', symObjAddr: 0x58C, symBinAddr: 0x100005688, symSize: 0xF8 }
+  - { offset: 0xDC3E0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b64r, symObjAddr: 0x684, symBinAddr: 0x100005780, symSize: 0x54 }
+  - { offset: 0xDC409, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64r, symObjAddr: 0x6D8, symBinAddr: 0x1000057D4, symSize: 0x44 }
+  - { offset: 0xDC428, size: 0x8, addend: 0x0, symName: '___64-[PermissionManager requestPermissions:completion:errorHandler:]_block_invoke.6', symObjAddr: 0x71C, symBinAddr: 0x100005818, symSize: 0x38 }
+  - { offset: 0xDC4B0, size: 0x8, addend: 0x0, symName: '+[PermissionManager openAppSettings:]', symObjAddr: 0x754, symBinAddr: 0x100005850, symSize: 0xFC }
+  - { offset: 0xDC4EF, size: 0x8, addend: 0x0, symName: '___37+[PermissionManager openAppSettings:]_block_invoke', symObjAddr: 0x850, symBinAddr: 0x10000594C, symSize: 0x4C }
+  - { offset: 0xDC555, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x89C, symBinAddr: 0x100005998, symSize: 0x10 }
+  - { offset: 0xDC57E, size: 0x8, addend: 0x0, symName: '+[PermissionManager createPermissionStrategy:]', symObjAddr: 0x8B4, symBinAddr: 0x1000059A8, symSize: 0x38 }
+  - { offset: 0xDC5C1, size: 0x8, addend: 0x0, symName: '-[PermissionManager .cxx_destruct]', symObjAddr: 0x8EC, symBinAddr: 0x1000059E0, symSize: 0xC }
+  - { offset: 0xDCA9E, size: 0x8, addend: 0x0, symName: '-[PhonePermissionStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x1000059EC, symSize: 0x8 }
+  - { offset: 0xDCC11, size: 0x8, addend: 0x0, symName: '-[PhonePermissionStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x1000059EC, symSize: 0x8 }
+  - { offset: 0xDCC50, size: 0x8, addend: 0x0, symName: '-[PhonePermissionStrategy checkServiceStatus:completionHandler:]', symObjAddr: 0x8, symBinAddr: 0x1000059F4, symSize: 0xC0 }
+  - { offset: 0xDCCCD, size: 0x8, addend: 0x0, symName: '-[PhonePermissionStrategy requestPermission:completionHandler:errorHandler:]', symObjAddr: 0xC8, symBinAddr: 0x100005AB4, symSize: 0x10 }
+  - { offset: 0xDCD3F, size: 0x8, addend: 0x0, symName: '-[PhonePermissionStrategy canDevicePlaceAPhoneCall]', symObjAddr: 0xD8, symBinAddr: 0x100005AC4, symSize: 0x168 }
+  - { offset: 0xDCDDB, size: 0x8, addend: 0x0, symName: '-[PhonePermissionStrategy canPlacePhoneCallWithCarrier:]', symObjAddr: 0x240, symBinAddr: 0x100005C2C, symSize: 0x5C }
+  - { offset: 0xDCFF9, size: 0x8, addend: 0x0, symName: '-[StoragePermissionStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x100005C88, symSize: 0xC }
+  - { offset: 0xDD16C, size: 0x8, addend: 0x0, symName: '-[StoragePermissionStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x100005C88, symSize: 0xC }
+  - { offset: 0xDD1AB, size: 0x8, addend: 0x0, symName: '-[StoragePermissionStrategy checkServiceStatus:completionHandler:]', symObjAddr: 0xC, symBinAddr: 0x100005C94, symSize: 0x10 }
+  - { offset: 0xDD211, size: 0x8, addend: 0x0, symName: '-[StoragePermissionStrategy requestPermission:completionHandler:errorHandler:]', symObjAddr: 0x1C, symBinAddr: 0x100005CA4, symSize: 0x54 }
+  - { offset: 0xDD27C, size: 0x8, addend: 0x0, symName: '+[StoragePermissionStrategy permissionStatus]', symObjAddr: 0x70, symBinAddr: 0x100005CF8, symSize: 0x8 }
+  - { offset: 0xDD469, size: 0x8, addend: 0x0, symName: '-[UnknownPermissionStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x100005D00, symSize: 0x8 }
+  - { offset: 0xDD5DC, size: 0x8, addend: 0x0, symName: '-[UnknownPermissionStrategy checkPermissionStatus:]', symObjAddr: 0x0, symBinAddr: 0x100005D00, symSize: 0x8 }
+  - { offset: 0xDD61B, size: 0x8, addend: 0x0, symName: '-[UnknownPermissionStrategy checkServiceStatus:completionHandler:]', symObjAddr: 0x8, symBinAddr: 0x100005D08, symSize: 0x10 }
+  - { offset: 0xDD681, size: 0x8, addend: 0x0, symName: '-[UnknownPermissionStrategy requestPermission:completionHandler:errorHandler:]', symObjAddr: 0x18, symBinAddr: 0x100005D18, symSize: 0x10 }
+...
