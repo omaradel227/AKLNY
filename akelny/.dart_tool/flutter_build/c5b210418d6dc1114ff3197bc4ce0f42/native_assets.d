@@ -1,0 +1,1 @@
+ /Users/omaradel/Downloads/akelny/.dart_tool/flutter_build/c5b210418d6dc1114ff3197bc4ce0f42/native_assets.yaml: 
